@@ -17,8 +17,8 @@ body {
 
 /* Header */
 header {
-  background: #fff;
-  border-bottom: 1px solid #ddd;
+  background: #000; 
+  border-bottom: 1px solid #222;
   padding: 1rem;
   display: flex;
   flex-direction: column;
